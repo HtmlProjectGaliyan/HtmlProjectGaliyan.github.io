@@ -1,0 +1,19 @@
+body {
+	font-family: Arial;
+	background-image: url("http://www.planwallpaper.com/static/images/6790904-free-background-wallpaper.jpg");
+	background-size:	cover;
+	background-repeat:	no-repeat;
+	background-position: center center;
+}
+
+img{
+	width: 40%;
+}
+
+h1{
+	text-align: center;
+}
+
+h3{
+	color: gold;
+}
